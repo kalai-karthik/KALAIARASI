@@ -1,0 +1,6 @@
+I0713 21:50:45.485080  2866 ot_environment.h:104] Setting /home/vsduser/vsdsynth/outdir_openMSP430/openMSP430.final.synth.v
+[0;33mW0713 21:50:45.485297  2866 ot_shell.cpp:419] Undefined command keyword "set_multi_cpu_usage"
+[mI0713 21:50:45.485357  2866 ot_environment.h:116] Setting /home/vsduser/vsdsynth/osu018_stdcells.lib
+I0713 21:50:45.485404  2866 ot_environment.h:122] Setting /home/vsduser/vsdsynth/osu018_stdcells.lib
+terminate called after throwing an instance of 'std::logic_error'
+  what():  basic_string::_M_construct null not valid
